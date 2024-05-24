@@ -2,6 +2,8 @@
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/chai2010/wa-example-magnifying-glass)
 
+![](wa-example-magnifying-glass-01.png)
+
 Tweetable Mathematical Art
 http://codegolf.stackexchange.com/questions/35569/tweetable-mathematical-art
 
